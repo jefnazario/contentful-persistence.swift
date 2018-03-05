@@ -1,2 +1,2 @@
-github "contentful/contentful.swift" ~> 1.0.1
+git "/Users/jpwright/Contentful/swift/SDK/contentful.swift" "experiment/fetch-experience"
 
