@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="13772" systemVersion="17D102" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="Cat" representedClassName="Cat" syncable="YES">
+        <attribute name="color" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="name" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="City" representedClassName="City" syncable="YES">
+        <attribute name="location" optional="YES" attributeType="Transformable" syncable="YES"/>
+    </entity>
+    <entity name="Dog" representedClassName="Dog" syncable="YES">
+        <attribute name="dogDescription" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="name" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="Cat" positionX="-54" positionY="18" width="128" height="75"/>
+        <element name="Dog" positionX="-63" positionY="-18" width="128" height="75"/>
+        <element name="City" positionX="-36" positionY="18" width="128" height="60"/>
+    </elements>
+</model>
